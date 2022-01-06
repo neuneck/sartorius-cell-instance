@@ -1,3 +1,11 @@
+# Kaggle data
+LIVECell_dataset_2021/
+sample_submission.csv
+test/
+train/
+train.csv
+train_semi_supervised/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
